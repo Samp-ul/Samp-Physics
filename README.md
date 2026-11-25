@@ -28,7 +28,7 @@ SampPhysics is the physics engine behind Samp Coasters. It turns blocks into pod
 
 SampPhysics is a library, so your mod can make its own pods!
 
-- [Modder's guide](Finish API GUIDE)
+- [Modder's guide]([Finish API GUIDE](https://github.com/Samp-ul/Samp-Physics/wiki/Modding-Guide))
 - [Commands](Finish Commands List)
 
 This is 0.1.0, so names can still change before 1.0. It also doesn't draw a pod's blocks yet, your mod does that (the guide shows how).
