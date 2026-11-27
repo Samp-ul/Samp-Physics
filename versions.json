@@ -1,0 +1,21 @@
+{
+  "sampphysics": {
+    "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/samp-physics/files",
+    "latest": {
+      "26.1.2": "0.1.0",
+      "26.2": "0.1.0",
+      "26.3": "0.1.0"
+    },
+    "githubOverride": {
+      "enabled": false,
+      "force": false,
+      "url": "https://github.com/Samp-ul/Samp-Physics/releases/latest",
+      "note": "Early release on GitHub while CurseForge reviews",
+      "latest": {
+        "26.1.2": "0.2.0",
+        "26.2": "0.2.0",
+        "26.3": "0.2.0"
+      }
+    }
+  }
+}
